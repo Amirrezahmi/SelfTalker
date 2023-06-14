@@ -15,4 +15,4 @@ So, whether you're seeking advice on a personal matter, looking for guidance in 
 With this project, the possibilities are endless. You can have conversations with your virtual self.
 
 
-# ${\color{cyan}\text{Features}}$
+## ${\color{cyan}\text{Features}}$
