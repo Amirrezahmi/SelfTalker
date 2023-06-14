@@ -1,4 +1,4 @@
-# ${\color{red}\text{Self Talker AI}}$
+# $\center{{\color{red}\text{Self Talker AI}}}$
 
 ## ${\color{cyan}\text{Project Overview}}$
 
