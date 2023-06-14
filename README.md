@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center" style="color: red;">${\color{red}\text{Self Talker AI}}$</h1>
 
 ## ${\color{cyan}\text{Project Overview}}$
@@ -19,3 +16,12 @@ With this project, the possibilities are endless. Your AI-powered virtual self i
 
 
 ## ${\color{cyan}\text{Features}}$
+   1. Text Generation
+   2. Keyword Extraction With KeyBERT
+   3. Text summarization
+   4. AI Text-to-Image with minimal DALL-E Mini
+   5. Text-to-video with Diffusers
+   6. Voice Cloning
+   7. MakeItTalk: Speaker-Aware Talking-Head Animation
+
+## ${\color{cyan}\text{Prerequisites}}$
