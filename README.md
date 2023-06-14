@@ -1,4 +1,7 @@
-# $\center{{\color{red}\text{Self Talker AI}}}$
+
+
+
+<h1 align="center" style="color: red;">${\color{red}\text{Self Talker AI}}$</h1>
 
 ## ${\color{cyan}\text{Project Overview}}$
 
