@@ -16,6 +16,9 @@ With this project, the possibilities are endless. Your AI-powered virtual self i
 
 
 ## ${\color{cyan}\text{Features}}$
+Welcome to the Features section!
+
+We've numbered the features below to highlight their specific order and importance. This helps you understand the logical progression of our product's capabilities, making it easier to grasp the underlying flow and prioritize accordingly. Enjoy exploring the exciting features we have in store for you!
    1. Text Generation
    2. Keyword Extraction With KeyBERT
    3. Text summarization
