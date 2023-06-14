@@ -15,7 +15,7 @@ Upon receiving the input prompt, the program initiates the answer generation pro
 
 So, whether you're seeking advice on a personal matter, looking for guidance in your career, or simply curious about the world around you, this AI-powered version of yourself is always at your disposal.
 
-With this project, the possibilities are endless. You can have conversations with your virtual self.
+With this project, the possibilities are endless. Your AI-powered virtual self is ready for conversation at any time.
 
 
 ## ${\color{cyan}\text{Features}}$
