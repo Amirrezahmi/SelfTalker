@@ -10,10 +10,10 @@ Using cutting-edge machine learning techniques such as NLP, voice cloning, compu
 
 Upon receiving the input prompt, the program initiates the answer generation process. Subsequently, it proceeds to extract relevant keywords and phrases from the generated response. Also the program summarize the generated answer to improve the quality of the final text. To enhance the understanding of the content, the program creates two images: the first image is generated using the extracted keywords, while the second image utilizes the extracted phrases from the generated text. Additionally, leveraging the aforementioned keywords and phrases, the program generates two videos. Next, employing voice cloning techniques and utilizing a dataset of your recorded voice in `.wav` format, the program synthesizes the text into speech, employing your unique vocal characteristics. Furthermore, by utilizing your $256 \times 256$ input image in `.jpg` format, the program automatically generates a talking-head video, employing your input image as a base, and synchronized with the cloned voice.
 
-
 <div align="center">
-  <img src="https://github.com/Amirrezahmi/SelfTalker/assets/89692207/968743bb-4130-42b0-b937-041bebad0b88" alt="20230617_123525_0000" width="600" />
+  <img src="https://github.com/Amirrezahmi/SelfTalker/assets/89692207/e2883ec3-42be-4565-97bb-f5cc50ffa0c5" alt="20230617_123525_0000" width="600" />
 </div>
+
 
 
 So, whether you're seeking advice on a personal matter, looking for guidance in your career, or simply curious about the world around you, this AI-powered version of yourself is always at your disposal.
