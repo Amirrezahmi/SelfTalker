@@ -1,0 +1,7 @@
+.cool-image {
+  transition: transform 0.3s ease-in-out;
+}
+
+.cool-image:hover {
+  transform: scale(1.2);
+}
