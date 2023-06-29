@@ -57,6 +57,8 @@ We've numbered the features below to highlight their specific order and importan
   4. The last step of `Self_Talker.ipynb` asks you for a $256 \times 256$ picture of yourself which is formated in `.jpg` file.
   5. After going through the previous steps, it's time to run cell's from the `Self_Talker.ipynb` jupyter note book. All you need to run this project is a colab        or jupyter account. By running "requirements" section from this notebook, you will simply install all requirements. Please note that you should change your run time type to GPU and import the fine-tuned GPT-2 model or even the voice dataset of yours if you're using google colab.
 
+# ${\color{cyan}\text{Example}}$
+
 # ${\color{cyan}\text{Contributing}}$ 
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
