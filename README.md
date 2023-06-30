@@ -59,6 +59,8 @@ We've numbered the features below to highlight their specific order and importan
 
 # ${\color{cyan}\text{Example}}$
 
+Here's a sample example:
+
 # ${\color{cyan}\text{Contributing}}$ 
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
