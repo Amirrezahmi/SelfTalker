@@ -126,6 +126,7 @@ ${\color{red}256 \times 256}$ ${\color{red} \text{ Input Image:}}$
 
 ${\color{red} \text{Speaker-Aware Talking-Head Animation:}}$
 
+Our text here is the abridged text of the generated response.
 
 
 
