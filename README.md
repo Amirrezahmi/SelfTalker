@@ -38,6 +38,8 @@ We've numbered the features below to highlight their specific order and importan
 
    - Python 3.x
    - Google Colab or Jupyter
+   - As this is a Jupyter Notebook file, It's not OS-specific and can be run on any operating system that supports Python, including Windows, macOS, and Linux.
+   - If you want to convert the Jupyter notebook (`.ipynb`) into a standalone web application with a user interface (UI), you can use `Anvil`.
 
 # ${\color{cyan}\text{Getting Started}}$
 
