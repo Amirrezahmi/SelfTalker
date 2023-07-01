@@ -105,6 +105,12 @@ https://github.com/Amirrezahmi/SelfTalker/assets/89692207/f2e3e59f-9dd3-4bf9-815
 
 ${\color{red}\text{Generating our second video. The prompt is our phrase variable:}}$
 
+
+
+https://github.com/Amirrezahmi/SelfTalker/assets/89692207/7b76ce01-531b-4db8-bdf2-11ec1fe47ca2
+
+
+
 # ${\color{cyan}\text{Contributing}}$ 
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
