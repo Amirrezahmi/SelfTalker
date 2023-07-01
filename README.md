@@ -124,7 +124,7 @@ ${\color{red}256 \times 256}$ ${\color{red} \text{ Input Image:}}$
   <img src="https://github.com/Amirrezahmi/SelfTalker/assets/89692207/51224db3-4aa6-458b-8644-aeb978d6b719" alt="20230617_123525_0000" width="200" />
 </div>
 
-${\color{red} \text{Speaker-Aware Talking-Head Animation}}$
+${\color{red} \text{Speaker-Aware Talking-Head Animation:}}$
 
 
 
