@@ -118,6 +118,9 @@ In this remarkable process, we have successfully cloned Elon Musk's voice using 
 
 https://github.com/Amirrezahmi/SelfTalker/assets/89692207/ddb84548-5014-428e-b8f8-b46375bac940
 
+
+Our text here is the abridged text of the generated response.
+
 ${\color{red}256 \times 256}$ ${\color{red} \text{ Input Image:}}$
 
 <div align="center">
@@ -126,7 +129,6 @@ ${\color{red}256 \times 256}$ ${\color{red} \text{ Input Image:}}$
 
 ${\color{red} \text{Speaker-Aware Talking-Head Animation:}}$
 
-Our text here is the abridged text of the generated response.
 
 
 
