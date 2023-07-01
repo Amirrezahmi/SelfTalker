@@ -84,11 +84,23 @@ If you want to be rich, you need to have a lot of money. The only way to make mo
 
 ${\color{red}\text{Generating our first Text-to-Image. The prompt is our keywords variable:}}$
 
+<div align="center">
+  <img src="https://github.com/Amirrezahmi/SelfTalker/assets/89692207/39e0594a-2338-4e33-ad68-e09df7ee2e21" alt="20230617_123525_0000" width="300" />
+</div>
+
+
 
 ${\color{red}\text{Generating our second Text-to-Image. The prompt is our phrases variable:}}$
 
+<div align="center">
+  <img src="https://github.com/Amirrezahmi/SelfTalker/assets/89692207/d7e202ca-7be0-42cb-9b0d-64f0986f4758" alt="20230617_123525_0000" width="300" />
+</div>
+
 
 ${\color{red}\text{Generating our first video. The prompt is our keywords variable:}}$
+
+https://github.com/Amirrezahmi/SelfTalker/assets/89692207/f2e3e59f-9dd3-4bf9-815a-801b9a89f1c4
+
 
 
 ${\color{red}\text{Generating our second video. The prompt is our phrase variable:}}$
