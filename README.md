@@ -61,6 +61,38 @@ We've numbered the features below to highlight their specific order and importan
 
 Here's a sample example:
 
+${\color{red}\text{Prompt:}}$
+
+${\color{orange}\text{\quad \quad \quad How to become a rich guy?}}$
+
+${\color{red}\text{Generated Response:}}$
+
+If you want to be rich, you need to have a lot of money. If you don't have enough money, it will be difficult for you to achieve your goals, because you will not be able to buy the things that you really want. The only way to make money is by investing. Investing in stocks, bonds, real estate, and other assets is one of the best ways to get rich. There are many methods of investing, but the most important is to invest your money in the stock market. For example, if you invest \$ 10,000 in a mutual fund, the fund will give you a return of 10% per year for the next 10 years. This is called a compound annual growth rate (CAGR). The more money you put into a fund the greater the return.
+
+${\color{red}\text{The top 3 keywords:}}$
+
+
+${\color{orange}\text{\quad \quad \quad 'rich', 'investing' and 'invest'}}$
+
+${\color{red}\text{The top 3 phrases:}}$
+
+${\color{orange}\text{\quad \quad \quad 'want rich', 'ways rich' and 'invest money'}}$
+
+${\color{red}\text{Text summarization:}}$
+
+If you want to be rich, you need to have a lot of money. The only way to make money is by investing. Investing in stocks, bonds, real estate, and other assets is one of the best ways to get rich. For example, if you invest $10,000 in a mutual fund, the fund will give you a return of 10% per year for the next 10 years.
+
+${\color{red}\text{Generating our first Text-to-Image. The prompt is our keywords variable:}}$
+
+
+${\color{red}\text{Generating our second Text-to-Image. The prompt is our phrases variable:}}$
+
+
+${\color{red}\text{Generating our first video. The prompt is our keywords variable:}}$
+
+
+${\color{red}\text{Generating our second video. The prompt is our phrase variable:}}$
+
 # ${\color{cyan}\text{Contributing}}$ 
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
