@@ -110,6 +110,38 @@ ${\color{red}\text{Generating our second video. The prompt is our phrase variabl
 https://github.com/Amirrezahmi/SelfTalker/assets/89692207/7b76ce01-531b-4db8-bdf2-11ec1fe47ca2
 
 
+${\color{red}\text{Voice Cloning:}}$
+
+In this remarkable process, we have successfully cloned Elon Musk's voice using a dataset of his own recordings. The result of our text-to-speech synthesis can be found in the following `.mov` file:
+
+
+
+https://github.com/Amirrezahmi/SelfTalker/assets/89692207/ddb84548-5014-428e-b8f8-b46375bac940
+
+${\color{red}256 \times 256}$ ${\color{red} \text{ Input Image:}}$
+
+<div align="center">
+  <img src="https://github.com/Amirrezahmi/SelfTalker/assets/89692207/51224db3-4aa6-458b-8644-aeb978d6b719" alt="20230617_123525_0000" width="200" />
+</div>
+
+${\color{red} \text{Speaker-Aware Talking-Head Animation}}$
+
+
+
+
+https://github.com/Amirrezahmi/SelfTalker/assets/89692207/3a076a6d-6fe4-4e30-b9b1-f2cb9a9d11f7
+
+
+
+
+
+${\color{red} \text{Final video:}}$
+
+
+
+https://github.com/Amirrezahmi/SelfTalker/assets/89692207/7506c5ca-f3d4-4c0a-a31d-73b0dad0a3e6
+
+
 
 # ${\color{cyan}\text{Contributing}}$ 
 
