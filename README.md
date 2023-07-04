@@ -25,8 +25,8 @@ With this project, the possibilities are endless. Your AI-powered virtual self i
 Welcome to the Features section!
 
 We've numbered the features below to highlight their specific order and importance. This helps you understand the logical progression of our product's capabilities, making it easier to grasp the underlying flow and prioritize accordingly. Enjoy exploring the exciting features we have in store for you!
-   1. Text Generation
-   2. Keyword Extraction With KeyBERT
+   1. Text generation powered by fine-tuned GPT-2
+   2. Keyword Extraction with KeyBERT
    3. Text summarization
    4. AI Text-to-Image with minimal DALL-E Mini
    5. Text-to-video with Diffusers
