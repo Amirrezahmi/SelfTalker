@@ -105,7 +105,7 @@ https://github.com/Amirrezahmi/SelfTalker/assets/89692207/f2e3e59f-9dd3-4bf9-815
 
 
 
-${\color{red}\text{Generating our second video. The prompt is our phrase variable:}}$
+${\color{red}\text{Generating our second video. The prompt is our phrases variable:}}$
 
 
 
