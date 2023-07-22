@@ -186,6 +186,7 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
   - [GPT-2](https://github.com/openai/gpt-2)- For Text generation step.
   - [KeyBERT](https://github.com/MaartenGr/KeyBERT)- For Keyword Extraction step.
+  - [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer)- For Style Switching in Conversations.
   - [DALL·E Mini](https://github.com/borisdayma/dalle-mini)- For AI Text-to-Image step.
   - [Diffusers](https://huggingface.co/damo-vilab/text-to-video-ms-1.7b)- For Text-to-Video step
   - [TorToiSe](https://github.com/jnordberg/tortoise-tts)- For voice cloning step.
