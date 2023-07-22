@@ -84,6 +84,22 @@ ${\color{red}\text{Text summarization:}}$
 
 If you want to be rich, you need to have a lot of money. The only way to make money is by investing. Investing in stocks, bonds, real estate, and other assets is one of the best ways to get rich. For example, if you invest $10,000 in a mutual fund, the fund will give you a return of 10% per year for the next 10 years.
 
+> **_NOTE:_** The final text comprises the generated response combined with our summarized text.
+
+${\color{red}\text{Switching between formal and casual language styles:}}$
+
+> **_NOTE:_** Using Styleformer we convert our generated response and summarized text from formal to casual language style. Please note that the genereated text from our fine-tuned GPT-2 model is primarily formal in nature. Visit `Self_Talker.ipynb` for more details.
+
+  - **_Changing generated response language style to casual:_**
+
+if you want to be rich, you have to have money. You will have a hard time achieving your goals if you're not rich enough to buy what you really want. Investing is the only way to make money. investing in stocks, bonds, real estate and other assets is one of the best ways to get rich. there are many ways to invest, but the most important is to invest your money in the stock market. like if you invest $ 10,000 in a mutual fund, that mutual will return you 10% each year for the next 10 years. it's called a compound annual growth rate. the more money you put into a fund the better the return.
+
+- **_Changing summarized text language style to casual:_**
+
+if you want to be rich, you have to have money. You can only make money by investing. Investing stocks, bonds, real estate is one of the best ways to get rich. like if you invest $10,000 in a mutual fund, the fund will give you a return of 10% per year for the next 10 years.
+
+> **_NOTE:_** In this example, I continued with the formal text but in your case it's all up to you.
+
 ${\color{red}\text{Generating our first Text-to-Image. The prompt is our keywords variable:}}$
 
 <div align="center">
