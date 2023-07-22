@@ -30,10 +30,11 @@ We've numbered the features below to highlight their specific order and importan
    1. Text generation powered by fine-tuned GPT-2
    2. Keyword Extraction with KeyBERT
    3. Text summarization
-   4. AI Text-to-Image with minimal DALL-E Mini
-   5. Text-to-video with Diffusers
-   6. Voice Cloning
-   7. MakeItTalk: Speaker-Aware Talking-Head Animation
+   4. Styleformer Integration: Seamless Style Switching in Conversations
+   5. AI Text-to-Image with minimal DALL-E Mini
+   6. Text-to-video with Diffusers
+   7. Voice Cloning
+   8. MakeItTalk: Speaker-Aware Talking-Head Animation
 
 # ${\color{cyan}\text{Prerequisites}}$
 
