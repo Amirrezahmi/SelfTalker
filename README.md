@@ -13,8 +13,9 @@ Upon receiving the input prompt, the program initiates the answer generation pro
 To enhance the understanding of the content, the program creates two images: the first image is generated using the extracted keywords, while the second image utilizes the extracted phrases from the generated text. Additionally, leveraging the aforementioned keywords and phrases, the program generates two videos. Next, employing voice cloning techniques and utilizing a dataset of your recorded voice in `.wav` format, the program synthesizes the text into speech, employing your unique vocal characteristics. Furthermore, by utilizing your $256 \times 256$ input image in `.jpg` format, the program automatically generates a talking-head video, employing your input image as a base, and synchronized with the cloned voice.
 
 <div align="center">
-  <img src="https://github.com/Amirrezahmi/SelfTalker/assets/89692207/959ddb98-ac6a-48fc-91ad-0366127122cd" alt="20230617_123525_0000" width="600" />
+  <img src="https://github.com/Amirrezahmi/SelfTalker/assets/89692207/282e2d9c-de0f-44eb-bb7f-326489d77a8b" width="700" />
 </div>
+
 
 
 
