@@ -53,8 +53,7 @@ We've numbered the features below to highlight their specific order and importan
   1. Clone the repository:
 
 ```bash
-  git clone https://github.com/Amirrezahmi/SelfTalker.git
-
+git clone https://github.com/Amirrezahmi/SelfTalker.git
 ```
 
 ## ${\color{pink}\text{Usage}}$
